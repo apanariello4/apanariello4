@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Visits Badge](https://badges.pufler.dev/visits/apanariello4/apanariello4)](https://github.com/apanariello4/)
+
 <!--
 **apanariello4/apanariello4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
