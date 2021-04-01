@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nello 👋
+
+I'm a Master Student in Computer Engineering at the University of Modena and Reggio Emilia.
+
+- 🔭 I’m currently working on:
+  - Machine Learning, Deep Learning, Computer Vision
+  - Formula Student Driverless MMR_Modena
+- 🌱 I’m currently learning *c++*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apanariello4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/apanariello4/apanariello4)](https://github.com/apanariello4/)
 
