@@ -3,7 +3,7 @@
 I'm a Master Student in Computer Engineering at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
-  - Machine Learning, Deep Learning, Computer Vision
+  - Video Classification @aimagelab
   - Formula Student Driverless MMR_Modena
 - 🌱 I’m currently learning *c++*
 
