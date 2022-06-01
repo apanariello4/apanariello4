@@ -1,9 +1,9 @@
 ### Hi there, I'm Nello 👋
 
-I'm a Master Student in Computer Engineering at the University of Modena and Reggio Emilia.
+I'm a Research Fellow @ AImageLab at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
-  - Video Classification @aimagelab
+  - Video Anomaly Detection and Explaination @aimagelab
   - Formula Student Driverless MMR_Modena
 - 🌱 I’m currently learning *c++*
 
