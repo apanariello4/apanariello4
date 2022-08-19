@@ -4,7 +4,7 @@ I'm a Research Fellow @ AImageLab at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
   - Video Anomaly Detection and Explaination @aimagelab
-- 🌱 I’m currently learning *c++*
+- 🌱 I’m currently learning **C++**
 - 📃 [My web page](https://apanariello4.github.io/)
 
 
