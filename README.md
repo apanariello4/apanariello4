@@ -4,14 +4,20 @@ I'm a Research Fellow @ AImageLab at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
   - Video Anomaly Detection and Explaination @aimagelab
-  - Formula Student Driverless MMR_Modena
 - 🌱 I’m currently learning *c++*
+- 📃 [My web page](https://apanariello4.github.io/)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apanariello4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/apanariello4/apanariello4)](https://github.com/apanariello4/)
+
+
+
 
 <!--
+[![Visits Badge](https://badges.pufler.dev/visits/apanariello4/apanariello4)](https://github.com/apanariello4/)
+
 **apanariello4/apanariello4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
