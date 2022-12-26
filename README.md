@@ -1,9 +1,10 @@
 ### Hi there, I'm Nello 👋
 
-I'm a Research Fellow @ AImageLab at the University of Modena and Reggio Emilia.
+I'm a PhD Student @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
-  - Video Anomaly Detection and Explaination @aimagelab
+  - Video Anomaly Detection and Explaination
+  - Monocular Depth Estimation for Tracking
 - 🌱 I’m currently learning **C++**
 - 📃 [My web page](https://apanariello4.github.io/)
 
