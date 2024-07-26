@@ -3,7 +3,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/apanariello4/apanariello4"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=apanariello4.apanariello4" alt="visitors"/>
      <a href="https://apanariello.com"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-grey"></a>
 </p>
@@ -11,6 +11,7 @@
 I'm a PhD Student @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
+  - Continual Learning 
   - Video Anomaly Detection and Explaination
   - Monocular Depth Estimation for Tracking
 - 🌱 I’m currently learning **C++**
