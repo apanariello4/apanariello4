@@ -8,11 +8,12 @@
      <a href="https://apanariello.com"><img alt="Personal Website" src="https://img.shields.io/badge/Personal%20Website-grey"></a>
 </p>
 
-I'm a PhD Student @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at the University of Modena and Reggio Emilia.
+I'm a Postdoc Researcher @ [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) at the University of Modena and Reggio Emilia.
 
 - 🔭 I’m currently working on:
-  - Continual Learning
   - Task Arithmetic and Model Merging
+  - Model Rebasin
+  - Continual Learning
 - I previously worked on:
   - Video Anomaly Detection and Explaination
   - Monocular Depth Estimation for Tracking
